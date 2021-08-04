@@ -1,0 +1,7 @@
+C:\Users\Stagiaire\source\repos\ECAsport\ECAsport\bin\Debug\ECAsport.exe.config
+C:\Users\Stagiaire\source\repos\ECAsport\ECAsport\bin\Debug\ECAsport.exe
+C:\Users\Stagiaire\source\repos\ECAsport\ECAsport\bin\Debug\ECAsport.pdb
+C:\Users\Stagiaire\source\repos\ECAsport\ECAsport\obj\Debug\ECAsport.csprojAssemblyReference.cache
+C:\Users\Stagiaire\source\repos\ECAsport\ECAsport\obj\Debug\ECAsport.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\source\repos\ECAsport\ECAsport\obj\Debug\ECAsport.exe
+C:\Users\Stagiaire\source\repos\ECAsport\ECAsport\obj\Debug\ECAsport.pdb

@@ -1,0 +1,7 @@
+C:\Users\Stagiaire\source\repos\App1\App1\bin\Debug\App1.exe.config
+C:\Users\Stagiaire\source\repos\App1\App1\bin\Debug\App1.exe
+C:\Users\Stagiaire\source\repos\App1\App1\bin\Debug\App1.pdb
+C:\Users\Stagiaire\source\repos\App1\App1\obj\Debug\App1.csprojAssemblyReference.cache
+C:\Users\Stagiaire\source\repos\App1\App1\obj\Debug\App1.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\source\repos\App1\App1\obj\Debug\App1.exe
+C:\Users\Stagiaire\source\repos\App1\App1\obj\Debug\App1.pdb

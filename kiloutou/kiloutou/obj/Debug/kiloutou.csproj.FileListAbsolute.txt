@@ -1,0 +1,7 @@
+C:\Users\Stagiaire\source\repos\kiloutou\kiloutou\bin\Debug\kiloutou.exe.config
+C:\Users\Stagiaire\source\repos\kiloutou\kiloutou\bin\Debug\kiloutou.exe
+C:\Users\Stagiaire\source\repos\kiloutou\kiloutou\bin\Debug\kiloutou.pdb
+C:\Users\Stagiaire\source\repos\kiloutou\kiloutou\obj\Debug\kiloutou.csprojAssemblyReference.cache
+C:\Users\Stagiaire\source\repos\kiloutou\kiloutou\obj\Debug\kiloutou.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\source\repos\kiloutou\kiloutou\obj\Debug\kiloutou.exe
+C:\Users\Stagiaire\source\repos\kiloutou\kiloutou\obj\Debug\kiloutou.pdb

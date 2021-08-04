@@ -1,0 +1,14 @@
+C:\Users\Stagiaire\source\repos\App1\AppEmprunt\AppEmprunt\bin\Debug\AppEmprunt.exe.config
+C:\Users\Stagiaire\source\repos\App1\AppEmprunt\AppEmprunt\bin\Debug\AppEmprunt.exe
+C:\Users\Stagiaire\source\repos\App1\AppEmprunt\AppEmprunt\bin\Debug\AppEmprunt.pdb
+C:\Users\Stagiaire\source\repos\App1\AppEmprunt\AppEmprunt\obj\Debug\AppEmprunt.csprojAssemblyReference.cache
+C:\Users\Stagiaire\source\repos\App1\AppEmprunt\AppEmprunt\obj\Debug\AppEmprunt.Form1.resources
+C:\Users\Stagiaire\source\repos\App1\AppEmprunt\AppEmprunt\obj\Debug\AppEmprunt.Properties.Resources.resources
+C:\Users\Stagiaire\source\repos\App1\AppEmprunt\AppEmprunt\obj\Debug\AppEmprunt.csproj.GenerateResource.cache
+C:\Users\Stagiaire\source\repos\App1\AppEmprunt\AppEmprunt\obj\Debug\AppEmprunt.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\source\repos\App1\AppEmprunt\AppEmprunt\obj\Debug\AppEmprunt.exe
+C:\Users\Stagiaire\source\repos\App1\AppEmprunt\AppEmprunt\obj\Debug\AppEmprunt.pdb
+C:\Users\Stagiaire\source\repos\App1\AppEmprunt\AppEmprunt\bin\Debug\App1.exe
+C:\Users\Stagiaire\source\repos\App1\AppEmprunt\AppEmprunt\bin\Debug\App1.pdb
+C:\Users\Stagiaire\source\repos\App1\AppEmprunt\AppEmprunt\bin\Debug\App1.exe.config
+C:\Users\Stagiaire\source\repos\App1\AppEmprunt\AppEmprunt\obj\Debug\AppEmprunt.csproj.CopyComplete
